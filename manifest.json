@@ -1,0 +1,32 @@
+{
+  "name": "HBHBail — Immobilier & Bail",
+  "short_name": "HBHBail",
+  "description": "Application de gestion de baux immobiliers — contrats, états des lieux, quittances",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0A0E1A",
+  "theme_color": "#0F3ADA",
+  "orientation": "any",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["business", "utilities"]
+}
